@@ -1,7 +1,7 @@
 - ERRORNAME
 - I exist I guess
 - 
-- 
+- this is a new acccount because I forgot password to old one and stuff
 - 
 
 <!---
